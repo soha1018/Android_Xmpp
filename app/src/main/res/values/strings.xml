@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Xmpp</string>
+    <string name="account">账号:</string>
+    <string name="password">密码:</string>
+    <string name="splash">Splash</string>
+    <string name="login">登陆</string>
+    <string name="input_password">请输入密码</string>
+    <string name="input_account">请输入用户名</string>
+    <string name="admin">admin</string>
+    <string name="session">会话</string>
+    <string name="net_setting">网络设置</string>
+    <string name="ip">IP:</string>
+    <string name="port">端口:</string>
+    <string name="input_ip">请输入IP地址</string>
+    <string name="ok">确定</string>
+    <string name="send">发送者</string>
+    <string name="receive">接收者</string>
+    <string name="time">时间</string>
+    <string name="nick">昵称</string>
+    <string name="body">内容</string>
+</resources>
